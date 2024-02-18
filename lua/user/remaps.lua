@@ -1,3 +1,6 @@
+vim.g.mapleader = ' '
+vim.g.maplocalleader = ' '
+
 vim.opt.relativenumber = false
 
 vim.keymap.set("n", "<leader>l", "<C-W>l")
